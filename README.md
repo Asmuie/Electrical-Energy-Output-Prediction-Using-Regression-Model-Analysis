@@ -16,7 +16,7 @@ Using the data provided, I had predict the Electrical Energy Output (EP) using r
 
   * Random Forest Regression
  
-By using r2_score method we can evaluate our regression model preformance and compare it with other model. The r2_score show that, with a Random Forest Regression model, we can predict Energy Produced with 96% of accuracy. 
+By using r2_score method we can evaluate our regression model preformance and compare it with other model. The r2_score show that, with a Random Forest Regression model, we can predict Electrical Energy Output (EP) with 96% of accuracy. 
 
 **Keyword:** Regression / Multiple Linear Regression / Polynomial Regression / Support Vector Regression / Decision Tree Regression / Random Forest Regression
  
